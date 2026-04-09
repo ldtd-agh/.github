@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ldtd-agh/.github/raw/main/banner-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ldtd-agh/.github/raw/main/banner-light.png">
-    <img height="110" alt="LDTD-AGH" src="https://github.com/ldtd-agh/.github/raw/main/banner-dark.png">
+    <img height="150" alt="LDTD-AGH" src="https://github.com/ldtd-agh/.github/raw/main/banner-dark.png">
   </picture>
 </p>
 
